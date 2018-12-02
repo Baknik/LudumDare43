@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 55f821bedacd83844bf3c05b40960181, type: 3}
+  m_Name: ModuleVersion
+  m_EditorClassIdentifier: 
+  versionNumber: 2.0.4
+  releaseNotes: "Release Notes\n\nIMPORTANT WARNING: Release 2.0 is incompatible with
+    previous versions of ALL Ez assets! Before updating, you MUST manually delete
+    the Plugins/Ez folder to prevent compilation errors!\r\nPLEASE BACKUP PROJECTS
+    BEFORE UPDATING!!!\r\n\r\nv 2.0.4\n- 2018.1 compatibility\n\nv 2.0.3\n- minor
+    bug fixes\n\nv 2.0.2\r\n- minor bug fixes\n\nv 2.0.1\r\n- minor bug fixes"

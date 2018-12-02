@@ -1,0 +1,98 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_PrefabParentObject: {fileID: 0}
+  m_PrefabInternal: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 60b192588deb40e40978bc41efea607a, type: 3}
+  m_Name: EzSourceData
+  m_EditorClassIdentifier: 
+  defineSymbolsMissingModuleButtons:
+  - text: 'Unity Asset Store: EZ DEFINE SYMBOLS'
+    url: http://u3d.as/DgH
+    linkButton: 1
+  - text: Video Tutorials for EZ DEFINE SYMBOLS
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2OlfPwi5njHWZ-sdtwrLeIY
+    linkButton: 2
+  - text: EZ DEFINE SYMBOLS - Owner's Manual
+    url: https://goo.gl/3L3BDE
+    linkButton: 3
+  dataManagerMissingModuleButtons:
+  - text: 'Unity Asset Store: EZ DATA MANAGER'
+    url: http://u3d.as/Eu0
+    linkButton: 1
+  - text: Video Tutorials for EZ DATA MANAGER
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2OEeSMHTFHChOz97VjSHcMo
+    linkButton: 2
+  - text: EZ DATA MANAGER - Owner's Manual
+    url: https://goo.gl/1AHNrB
+    linkButton: 3
+  bindMissingModuleButtons:
+  - text: 'Unity Asset Store: EZ BIND'
+    url: http://u3d.as/LCm
+    linkButton: 1
+  - text: Video Tutorials for EZ BIND
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2NYQgAxxzbwWVSE7m8hnrqw
+    linkButton: 2
+  - text: EZ BIND - Owner's Manual
+    url: https://goo.gl/8f85Lz
+    linkButton: 3
+  poolyMissingModuleButtons:
+  - text: 'Unity Asset Store: POOLY'
+    url: http://u3d.as/KcZ
+    linkButton: 1
+  - text: Video Tutorials for POOLY
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2P0aB54W0UQnRgU7YtrkyAY
+    linkButton: 2
+  - text: POOLY - Owner's Manual
+    url: https://goo.gl/qvSq9f
+    linkButton: 3
+  adsMissingModuleButtons:
+  - text: 'Unity Asset Store: EZ ADS'
+    url: http://u3d.as/DUo
+    linkButton: 1
+  - text: Video Tutorials for EZ ADS
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2PbvxA-5c1cAWyv5zLyg2qL
+    linkButton: 2
+  - text: EZ ADS - Owner's Manual
+    url: https://goo.gl/3rQ5hS
+    linkButton: 3
+  defineSymbolsHelpButtons:
+  - text: EZ DEFINE SYMBOLS - Owner's Manual
+    url: https://goo.gl/586vc5
+    linkButton: 3
+  - text: Video Tutorials for EZ DEFINE SYMBOLS
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2OlfPwi5njHWZ-sdtwrLeIY
+    linkButton: 2
+  dataManagerHelpButtons:
+  - text: EZ DATA MANAGER - Owner's Manual
+    url: https://goo.gl/k9jB2Q
+    linkButton: 3
+  - text: Video Tutorials for EZ DATA MANAGER
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2OEeSMHTFHChOz97VjSHcMo
+    linkButton: 2
+  bindHelpButtons:
+  - text: EZ BIND - Owner's Manual
+    url: https://goo.gl/TTzp27
+    linkButton: 3
+  - text: Video Tutorials for EZ BIND
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2NYQgAxxzbwWVSE7m8hnrqw
+    linkButton: 2
+  poolyHelpButtons:
+  - text: POOLY - Owner's Manual
+    url: https://goo.gl/ZoTAcH
+    linkButton: 3
+  - text: Video Tutorials for POOLY
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2P0aB54W0UQnRgU7YtrkyAY
+    linkButton: 2
+  adsHelpButtons:
+  - text: EZ ADS - Owner's Manual
+    url: https://goo.gl/XMMTeP
+    linkButton: 3
+  - text: Video Tutorials for EZ ADS
+    url: https://www.youtube.com/playlist?playnext=1&list=PLRE6VXhDQg2PbvxA-5c1cAWyv5zLyg2qL
+    linkButton: 2
